@@ -1,6 +1,6 @@
 ### Hello, I'm Shokkoh 👋
 
-I am from Buenos Aires, Argentina 🇦🇷 and currently studying **Licenciatura en Sistemas**.  
+I am from Buenos Aires, Argentina 🇦🇷 and currently studying **Informatic Engineering💻**.  
 I am passionate about **Minecraft**, and I love creating things for it, whether mods, builds, plugins, or servers. I also enjoy going to the gym.
 
 ### 📚 My Main Projects
