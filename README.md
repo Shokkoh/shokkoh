@@ -1,7 +1,7 @@
 ### Hello, I'm Shokkoh 👋
 
 I am from Buenos Aires, Argentina 🇦🇷 and currently studying **Informatic Engineering💻**.  
-I am passionate about **Minecraft**, and I love creating things for it, whether mods, builds, plugins, or servers. I also enjoy going to the gym.
+I am passionate about **Minecraft**, and I love creating things for it, whether mods, builds, plugins, or servers. I also enjoy going to the gym and having Iced Coffees!
 
 ### 📚 My Main Projects
 - **DragonMine Z** – My main project, a large-scale Minecraft project.  
